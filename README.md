@@ -13,9 +13,9 @@
 | 03 | [Gabarito Comentado – Simulado 1](03-gabarito-simulado-1.md) | Respostas com explicações detalhadas |
 | 04 | [Simulado 2 – Questões 51 a 100](04-simulado-2-questoes.md) | 50 questões no estilo FGV |
 | 05 | [Gabarito Comentado – Simulado 2](05-gabarito-simulado-2.md) | Respostas com explicações detalhadas |
-| 06 | [Revisão Completa de Java](06-revisao-java.md) | OO, coleções, Stream API, Spring Boot |
-| 07 | [Revisão de Engenharia de Software](07-revisao-engenharia-software.md) | SDLC, Scrum, Kanban, UML, Requisitos |
-| 08 | [Revisão de Banco de Dados](08-revisao-banco-de-dados.md) | SQL, NoSQL, Modelagem, Normalização |
+| 06 | [Revisão Completa de Java](06%20-%20revisao-completa-java.md) | OO, coleções, Stream API, Spring Boot |
+| 07 | [Revisão de Engenharia de Software](07%20-%20revisao-engenharia-software.md) | SDLC, Scrum, Kanban, UML, Requisitos |
+| 08 | [Revisão de Banco de Dados](08%20-%20revisao-banco-de-dados.md) | SQL, NoSQL, Modelagem, Normalização |
 | 09 | [Revisão de APIs REST e Microsserviços](09-revisao-apis-microsservicos.md) | REST, SOAP, OpenAPI, Microsserviços |
 | 10 | [Revisão de Testes de Software](10-revisao-testes-software.md) | Tipos, níveis, automação, TDD, BDD |
 | 11 | [Revisão de DevOps, Git, Docker e CI/CD](11-revisao-devops-git-docker.md) | Git, Docker, Kubernetes, CI/CD, IaC |
