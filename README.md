@@ -16,11 +16,11 @@
 | 06 | [Revisão Completa de Java](06%20-%20revisao-completa-java.md) | OO, coleções, Stream API, Spring Boot |
 | 07 | [Revisão de Engenharia de Software](engenharia-software/revisao-engenharia-software.md) | SDLC, Scrum, Kanban, UML, Requisitos |
 | 08 | [Revisão de Banco de Dados](banco-de-dados/revisao-banco-de-dados.md) | SQL, NoSQL, Modelagem, Normalização |
-| 09 | [Revisão de APIs REST e Microsserviços](09-revisao-apis-microsservicos.md) | REST, SOAP, OpenAPI, Microsserviços |
-| 10 | [Revisão de Testes de Software](10-revisao-testes-software.md) | Tipos, níveis, automação, TDD, BDD |
-| 11 | [Revisão de DevOps, Git, Docker e CI/CD](11-revisao-devops-git-docker.md) | Git, Docker, Kubernetes, CI/CD, IaC |
-| 12 | [Revisão de Arquitetura e Design Patterns](12-revisao-arquitetura-design-patterns.md) | SOLID, GoF, MVC, Clean Architecture |
-| 13 | [Revisão de Segurança da Informação](13-revisao-seguranca-informacao.md) | OWASP, LGPD, Criptografia, Ameaças |
+| 09 | [Revisão de APIs REST e Microsserviços](09%20-%20Revis%C3%A3o%20de%20APIs%20REST%20e%20Microsservi%C3%A7os.md) | REST, SOAP, OpenAPI, Microsserviços |
+| 10 | [Revisão de Testes de Software](10%20-%20Revis%C3%A3o%20de%20Testes%20de%20Software.md) | Tipos, níveis, automação, TDD, BDD |
+| 11 | [Revisão de DevOps, Git, Docker e CI/CD](11%20-%20Revis%C3%A3o%20de%20DevOps,%20Git,%20Docker%20e%20CICD.md) | Git, Docker, Kubernetes, CI/CD, IaC |
+| 12 | [Revisão de Arquitetura e Design Patterns](12%20-%20Revis%C3%A3o%20de%20Arquitetura%20e%20Design%20Patterns.md) | SOLID, GoF, MVC, Clean Architecture |
+| 13 | [Revisão de Segurança da Informação](13%20-%20Revis%C3%A3o%20de%20Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o.md) | OWASP, LGPD, Criptografia, Ameaças |
 | 14 | [Estatísticas + Plano de Estudos + Checklist](14-plano-estudos-checklist.md) | Cronograma, checklist e metas |
 
 ---
