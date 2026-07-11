@@ -10,9 +10,9 @@
 |---|---------|----------|
 | 01 | [Orientações + Como Estudar para a FGV](01-orientacoes-como-estudar.md) | Estratégias, perfil da banca, cronograma |
 | 02 | [Simulado 1 – Questões 1 a 50](02-simulado-1-questoes.md) | 50 questões no estilo FGV |
-| 03 | [Gabarito Comentado – Simulado 1](03-gabarito-simulado-1.md) | Respostas com explicações detalhadas |
-| 04 | [Simulado 2 – Questões 51 a 100](04-simulado-2-questoes.md) | 50 questões no estilo FGV |
-| 05 | [Gabarito Comentado – Simulado 2](05-gabarito-simulado-2.md) | Respostas com explicações detalhadas |
+| 03 | [Gabarito Comentado – Simulado 1](03-gabarito-comentado-simulado-1.md) | Respostas com explicações detalhadas |
+| 04 | [Simulado 2 – Questões 51 a 100](04%20-%20Simulado%202%20%E2%80%93%20Quest%C3%B5es%2051%20a%20100.md) | 50 questões no estilo FGV |
+| 05 | [Gabarito Comentado – Simulado 2](05%20-%20Gabarito-comentado-simulado-2.md) | Respostas com explicações detalhadas |
 | 06 | [Revisão Completa de Java](06%20-%20revisao-completa-java.md) | OO, coleções, Stream API, Spring Boot |
 | 07 | [Revisão de Engenharia de Software](engenharia-software/revisao-engenharia-software.md) | SDLC, Scrum, Kanban, UML, Requisitos |
 | 08 | [Revisão de Banco de Dados](banco-de-dados/revisao-banco-de-dados.md) | SQL, NoSQL, Modelagem, Normalização |
